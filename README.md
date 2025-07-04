@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-zeeshan-islam&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-zeeshan-islam" /> </p>
 
-- 🔭 I’m currently working on **Unity and C#**
+- 🔭 I’m currently working on **Unity**
 
 - 🌱 I’m currently learning **Game Development From Youtube**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1XnbUejiZ3GSWE1LDlfVt5CzlXxROQyR6?usp=drive_link](https://drive.google.com/drive/folders/1XnbUejiZ3GSWE1LDlfVt5CzlXxROQyR6?usp=drive_link)
 
-- 💬 Ask me about **C++, C#, Unity, Competitive Programming & Crypto**
+- 💬 Ask me about **C++, C# and Unity**
 
 - 📫 How to reach me **zeeshanislam015@gmail.com**
 
@@ -22,9 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zeeshan548cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeeshan548cs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zeeshan020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeeshan020" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/1fnbjcdrtg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1fnbjcdrtg/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/zeeshanislam015?igsh=mw4wbwf6zjfmmhj2ba==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zeeshanislam015?igsh=mw4wbwf6zjfmmhj2ba==" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad zeeshan islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad zeeshan islam" height="30" width="40" /></a>
+<a href="https://fb.com/muhammad zeeshan islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad zeeshan islam" height="30" width="40" /></a>
+<a href="https://instagram.com/zeeshanislam015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeeshanislam015" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

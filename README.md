@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1XnbUejiZ3GSWE1LDlfVt5CzlXxROQyR6?usp=drive_link](https://drive.google.com/drive/folders/1XnbUejiZ3GSWE1LDlfVt5CzlXxROQyR6?usp=drive_link)
 
-- 💬 Ask me about **C++, C# and Unity**
+- 💬 Ask me about **C++, C#, Unity & Crypto Trading**
 
 - 📫 How to reach me **zeeshanislam015@gmail.com**
 
